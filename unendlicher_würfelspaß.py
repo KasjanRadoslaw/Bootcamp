@@ -1,4 +1,5 @@
 import random
+
 counter = 0
 while counter < 30:
 	number = random.randint(1, 6)
