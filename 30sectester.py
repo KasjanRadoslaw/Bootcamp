@@ -13,4 +13,4 @@ print("Würdest du gerne noch einmal zur Welt kommen?")
 
 time.sleep(30)
 
-print("Ende der Beantwortungszeit!")
+print("\nEnde der Beantwortungszeit!")
